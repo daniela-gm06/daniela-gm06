@@ -1,6 +1,6 @@
 # Daniela Galvis 
 
-Where finance meets machine learning.
+Where finance and economics meet machine learning.
 
 ![Role](https://img.shields.io/badge/Market_Risk-Murex_MX.3-0b5cad?style=flat-square)
 ![Location](https://img.shields.io/badge/based_in-Bogotá,_Colombia-555?style=flat-square)
