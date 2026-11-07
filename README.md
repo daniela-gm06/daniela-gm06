@@ -1,6 +1,6 @@
 # Daniela Galvis 
 
-> Economist and Market Risk Consultant. I work on Murex MX.3 risk engines for banks across Latin America and the US, and I build quantitative models where finance meets machine learning.
+Where finance meets machine learning.
 
 ![Role](https://img.shields.io/badge/Market_Risk-Murex_MX.3-0b5cad?style=flat-square)
 ![Location](https://img.shields.io/badge/based_in-Bogotá,_Colombia-555?style=flat-square)
