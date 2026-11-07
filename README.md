@@ -1,4 +1,4 @@
-# Daniela Galvis Martínez
+# Daniela Galvis 
 
 > Economist and Market Risk Consultant. I work on Murex MX.3 risk engines for banks across Latin America and the US, and I build quantitative models where finance meets machine learning.
 
@@ -29,7 +29,7 @@ Murex MX.3 implementations and support for international banking clients: Bilate
 
 ## Education
 
-**M.A. Applied Economics** · Universidad de los Andes — emphasis in Big Data and Machine Learning applied to capital markets
+**M.A. Applied Economics** · Universidad de los Andes — emphasis in Big Data and Machine Learning
 **B.A. Economics** · Universidad Externado de Colombia · *2019 – 2024*
 
 ## Toolkit
