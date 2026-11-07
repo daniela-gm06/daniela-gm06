@@ -30,6 +30,7 @@ Murex MX.3 implementations and support for international banking clients: Bilate
 ## Education
 
 **M.A. Applied Economics** · Universidad de los Andes — emphasis in Big Data and Machine Learning
+
 **B.A. Economics** · Universidad Externado de Colombia · *2019 – 2024*
 
 ## Toolkit
