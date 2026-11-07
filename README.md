@@ -4,7 +4,7 @@
 
 ![Role](https://img.shields.io/badge/Market_Risk-Murex_MX.3-0b5cad?style=flat-square)
 ![Location](https://img.shields.io/badge/based_in-Bogotá,_Colombia-555?style=flat-square)
-![Languages](https://img.shields.io/badge/ES_·_EN_·_DE-native_·_advanced_·_intermediate-555?style=flat-square)
+![Languages](https://img.shields.io/badge/ES_·_EN_·_DE-native_·_advanced_·_basic-555?style=flat-square)
 
 ## What I work on
 
